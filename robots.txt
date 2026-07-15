@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-3c22vt.openclaw-pro-max.com/sitemap.xml
